@@ -25,7 +25,7 @@ Hello! I'm Ajith, currently pursuing a B.Tech in Computer Science and Business S
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Ajith's LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- **Email**: ajith@example.com
+- **Email**: ajithm3223@gmail.com
 
 ## 🚀 Projects
 - **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO)**: Brief description of what the project is about.
