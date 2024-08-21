@@ -5,7 +5,7 @@ Hello! I'm Ajith, currently pursuing a B.Tech in Computer Science and Business S
 
 ## 📚 Skills
 
-  ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 
 
