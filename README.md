@@ -1,19 +1,29 @@
 # Ajith's GitHub Profile
 
 ## 👨‍💻 About Me
-Hello! I'm Ajith, currently pursuing a B.Tech in Computer Science and Business Systems. I am passionate about programming and constantly learning new technologies to enhance my skills.
+Hello! I'm Ajith, currently pursuing a B.Tech in Computer Science and Business Systems. I am passionate about programming and always looking to learn new technologies.
 
 ## 📚 Skills
-- **Programming Languages**: 
-  - C
-  - C++
-  - Java
-  - JavaScript
-- **Web Technologies**:
-  - HTML
-  - CSS
-- **Frameworks**:
-  - Currently learning **Spring Boot**
+
+### Programming Languages
+- **C**
+  ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+- **C++**
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- **Java**
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **JavaScript**
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Web Technologies
+- **HTML**
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+- **CSS**
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+### Frameworks
+- **Spring Boot**
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
 ## 🔧 Tools & Technologies
 - **IDEs**: IntelliJ IDEA, VS Code
@@ -36,14 +46,4 @@ Hello! I'm Ajith, currently pursuing a B.Tech in Computer Science and Business S
 ## 🚀 Projects
 - **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO)**: Brief description of what the project is about.
 
-Feel free to explore my repositories and connect with me if you'd like to discuss projects or collaborate!
-
----
-
-*Last updated: August 2024*
-
-
-<!---
-AjithM323/AjithM323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and connect wit
